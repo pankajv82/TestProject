@@ -1,0 +1,13 @@
+•	1.5 years of experience in Python,  Build Automation, and Testing 
+•	1 years of experience in C#, Asp.Net, ADO.NET, My SQL, Oracle, HTML, XML, Java Script
+•	6 month experience on AWS Cloud & DevOps role.
+•	Working knowledge of  C, and  C++,
+•	Very Good in Test Scenario Identification, Test Plan Management, Test Execution Process, Reporting & Tracking Defects and Status Reports Generation.
+•	Working experience in SQL, RDBMS Concepts, Database Programming, creation of Stored Procedures. 
+•	Working experience with Cloud Deployment. 
+•	Understanding and implementation of the Software Development Life Cycle (SDLC), AGILE methodology and Software Testing Life Cycle (STLC). 
+•	Good experience in managing Cloud infrastructure Amazon Web Services (AWS), Github, Jenkins and Chef.
+•	Engineered Web Services using various Amazon Cloud Services such as Amazon Elastic Compute Cloud (EC2), Simple Storage Servces (S3), Cloud Watch, Simple Email Service (SES), Route 53 etc
+•	Proven experience in managing Continuous Integration, Continuous Deployment using Jenkins and Chef.
+•	Possess Good communication skills, adept at learning new technologies and ability to work under pressure individually and/or in a team. Excellent analytical skills, problem solving attitude and excellent presentation skills.
+
