@@ -3,7 +3,14 @@
 •	Working experience with Cloud Deployment. 
 •	Understanding and implementation of the Software Development Life Cycle (SDLC), AGILE methodology and Software Testing Life Cycle (STLC). 
 •	Good experience in managing Cloud infrastructure Amazon Web Services (AWS), Github, Jenkins and Chef.
-•	Engineered Web Services using various Amazon Cloud Services such as Amazon Elastic Compute Cloud (EC2), Simple Storage Servces (S3), Cloud Watch, Simple Email Service (SES), Route 53 etc
+•	Engineered Web Services using various Amazon Cloud Services such as Amazon Elastic Compute Cloud (EC2), Simple Storage Servces (S3), C Service (SES), Route 53 etc
 •	Proven experience in managing Continuous Integration, Continuous Deployment using Jenkins and Chef.
 •	Possess Good communication skills, adept at learning new technologies and ability to work under pressure individually and/or in a team. Excellent analytical skills, problem solving attitude and excellent presentation skills.
+aas
+das
+das
+d
+asd
+as
+
 
